@@ -1,0 +1,11 @@
+{
+  "name": "tapable-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:TXWSLYF/tapable-demo.git",
+  "author": "alex <1060319328@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "tapable": "^2.2.0"
+  }
+}
